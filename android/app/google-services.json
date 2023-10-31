@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480105835407",
+    "firebase_url": "https://movil2023a-default-rtdb.firebaseio.com",
+    "project_id": "movil2023a",
+    "storage_bucket": "movil2023a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480105835407:android:9d67175df8a547d0f6b9fa",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud_clinicavet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480105835407-d40frpcr6rbgp00jhsu1cofj52026vji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV4SZSPAa9wYGfA97EGn-Cg-fr4S3ri9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480105835407-d40frpcr6rbgp00jhsu1cofj52026vji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
